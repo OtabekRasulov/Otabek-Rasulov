@@ -1,0 +1,101 @@
+*{
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    overflow-y: hidden;
+}
+body{
+    background: url(img/photo_2022-09-27_16-16-34.jpg);
+    background-repeat: no-repeat cover center;
+
+}
+.navbar{
+    opacity: calc(0.5);
+    background-color: black;
+    height: 100px;
+    display: flex;
+}
+.logo>img{
+    margin-top: 30px;
+    margin-left: 100px;
+}
+.link1{
+    color: white;
+    margin-top: 40px;
+    text-align: center;
+    margin-left: 100px;
+}
+.link2{
+    color: white;
+    margin-top: 40px;
+    text-align: center;
+    margin-left: 100px;
+}
+.link3{
+    color: white;
+    margin-top: 40px;
+    text-align: center;
+    margin-left: 100px;
+}
+.link4{
+    color: white;
+    margin-top: 40px;
+    text-align: center;
+    margin-left: 100px;
+}
+
+.img>img{
+    margin-top: 60px;
+    margin-left: 400px;
+    position: absolute;
+    height: 500px;
+}
+.imgf>img{
+    margin-top: -360px;
+    margin-left: 840px;
+    position: absolute;
+    width: 180px;
+    height: 320px;
+}
+h1{
+    color: white;
+}
+button{
+    border-radius: 40px;
+    margin-left: 250px;
+    opacity: 1;
+    background-image: none;
+    background-color: none;
+}
+button>h1{
+    opacity: 0;
+    margin-top: 40px;
+}
+.logos{
+    display: flex;
+    margin-left: 300px;
+    margin-top: 100px;
+}
+.img2{
+    margin-left: 50px ;
+}
+.img3{
+    margin-left: 50px ;
+}
+.img1>img{
+    height: 45px;
+}
+.lorem{
+    margin-top: 00px;
+}
+.loremm{
+    margin-left: -600px;
+}
+.loremm>h1{
+    font-size: 50px;
+    text-align: center;
+}
+i{
+    width: 100px;
+    height: 100px;
+}
